@@ -1,0 +1,29 @@
++--------------+-------+---------------+---------------------+
+|  Agent Name  | Month | Handled Calls | Total On Calls Hour |
++--------------+-------+---------------+---------------------+
+|    SHARON    |  MAY  |      1423     |        59.03        |
+|    STEREN    |  MAY  |      1369     |        72.02        |
+|     ROTH     |  MAY  |      1157     |        84.40        |
+|    KAZAV     |  MAY  |      1138     |        75.78        |
+|    MORIAH    |  MAY  |      1104     |        64.17        |
+|     AVNI     |  MAY  |      1093     |        86.98        |
+|     AVI      |  MAY  |      1062     |        43.84        |
+|     TOVA     |  MAY  |      978      |        52.39        |
+|    YIFAT     |  MAY  |      947      |        51.45        |
+|     YITZ     |  MAY  |      857      |        51.63        |
+|    ZOHARI    |  MAY  |      822      |        67.97        |
+|     MIKI     |  MAY  |      707      |        41.15        |
+|     GILI     |  MAY  |      665      |        31.74        |
+|    VICKY     |  MAY  |      569      |        36.93        |
+|    BASCH     |  MAY  |      488      |        25.54        |
+|    GELBER    |  MAY  |      462      |        19.94        |
+|    DARMON    |  MAY  |      440      |        36.29        |
+|    AVIDAN    |  MAY  |      433      |        30.40        |
+|   BENSION    |  MAY  |      415      |        21.85        |
+|     ELI      |  MAY  |      304      |        41.32        |
+|    DORIT     |  MAY  |      285      |        17.20        |
+| NO_SERVERAMA |  MAY  |      239      |        12.47        |
+|    SHLOMO    |  MAY  |       33      |         1.43        |
+|    PINHAS    |  MAY  |       21      |         2.59        |
+|    DAVID     |  MAY  |       2       |         0.00        |
++--------------+-------+---------------+---------------------+
